@@ -2,9 +2,9 @@
 
 ## Comandos básicos - terminal linux
 
-`man` -> comando para receber ajuda (exemplo: man pwd)
+- `man` -> comando para receber ajuda (exemplo: man pwd)
 
-`pwd` -> verificar diretório atual
+- `pwd` -> verificar diretório atual
 
 - `ls` -> listar diretórios e arquivos
 - `ls -l` -> listar diretórios e arquivos com mais detalhes
